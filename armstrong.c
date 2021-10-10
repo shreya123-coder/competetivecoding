@@ -17,3 +17,4 @@ else
 printf("not armstrong number");    
 return 0;  
 }   
+//armstrongcoding in c
