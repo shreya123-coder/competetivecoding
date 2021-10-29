@@ -4,6 +4,7 @@ int max(int a, int b) {
       return a;
    } else {
       return b;
+      //    
    }
 }
 int knapsack(int W, int wt[], int val[], int n) {
