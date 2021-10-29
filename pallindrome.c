@@ -8,12 +8,12 @@ for(i=2;i<=m;i++)
 {    
 if(n%i==0)    
 {    
-printf("Number is not prime");    
+printf("Number is not Prime");    
 flag=1;    
 break;    
 }    
 }    
 if(flag==0)    
-printf("Number is prime");     
+printf("Number is Prime");     
 return 0;  
  }    
